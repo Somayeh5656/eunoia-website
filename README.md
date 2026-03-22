@@ -13,6 +13,11 @@ This is a React + Vite frontend for the Eunoia project – a warm, empathetic AI
 
 Clone the repository
 
+add your agent id to the path 
+
+\Calming Minimalist Website Design\src\app\components\ElevenLabsWidget.tsx
+
+
 Install dependencies
 
 npm install
