@@ -14,8 +14,11 @@ This is a React + Vite frontend for the Eunoia project – a warm, empathetic AI
 Clone the repository
 
 Install dependencies
+
 npm install
 
 Start the development server:
+
 npm run dev
+
 Open your browser and go to http://localhost:5173.
