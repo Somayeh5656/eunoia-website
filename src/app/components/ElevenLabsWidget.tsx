@@ -18,7 +18,7 @@ export function ElevenLabsWidget() {
   }, []);
 
   return (
-    <elevenlabs-convai agent-id="agent_7701kkrgqza4egf9jy94pbqvyjrt"></elevenlabs-convai>
+    <elevenlabs-convai agent-id="add your agent id"></elevenlabs-convai>
   );
 }
 
